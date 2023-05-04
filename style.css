@@ -426,7 +426,7 @@ a {
 @media (max-width: 800px) {
     .nav img {
         /* position: absolute; */
-        width: 40%;
+        width: 80%;
         /* top: 0; */
     }
 
